@@ -39,5 +39,5 @@
 			"last 1 safari version"
 		]
 	},
-	"proxy": "http://localhost:3000/server/"
+	"proxy": "https://server-full-blog.herokuapp.com/"
 }
