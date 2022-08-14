@@ -39,5 +39,5 @@
 			"last 1 safari version"
 		]
 	},
-	"proxy": "https://server-full-blog.herokuapp.com/"
+	"proxy": "https://server-full-blog.herokuapp.com/server"
 }
